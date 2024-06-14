@@ -1,6 +1,5 @@
-![](../Downloads/download.png)
+![download](https://github.com/LandaAbhishek/Accenture-North-America-Data-Analytics-and-Visualization-Job-Simulation-Certificate/assets/170428965/c2211970-d02e-471b-9520-d6e0b287c7a3)
 
- 
 
 **Accenture North America Data Analytics and Visualization Job Simulation on
 Forage - April 2024**
